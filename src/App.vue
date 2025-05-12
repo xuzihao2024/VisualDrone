@@ -1,3 +1,5 @@
+<!-- https://github.com/xuzihao2024/VisualDrone -->
+
 <template>
   <div id="cesiumContainer" ref="cesiumContainer" v-if="isLoggedIn"></div>
   

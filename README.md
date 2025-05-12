@@ -1,19 +1,8 @@
-# cesium-basic
+上海大学 - 数据科学与大数据技术 - 许子豪 - 本科生毕业设计《从无人机视频中可视化检测对象位置的研究》
 
-## Project setup
-```
-npm install
-```
+Shanghai University - Data Science and Big Data Technology - Zihao Xu - Graduation Project *Research on Visualizing the Detection of Object Positions from Drone Videos*
 
-### Compiles and hot-reloads for development
+Run project:
 ```
-npm run serve
+yarn serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
